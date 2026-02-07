@@ -1,0 +1,11 @@
+a = bool(1)
+b = bool(2.3)
+c = bool('388')
+d = bool(0)
+e = bool(-28)
+
+print(a, type(a))
+print(b, type(b))
+print(c, type(c))
+print(d, type(d))
+print(e, type(e))
